@@ -2,6 +2,12 @@
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
+### General Info
+
+The world and Q-learing analysis is on the smartcab.ipynb along some visuals
+
+To see the implmentation of Q-learning in this environment, see the agent.py file inside the smartcab folder
+
 ### Install
 
 This project requires **Python 2.7** with the [pygame](https://www.pygame.org/wiki/GettingStarted
